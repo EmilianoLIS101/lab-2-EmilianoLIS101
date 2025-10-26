@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Hernandez Martinez Jorge Emiliano
+- Matrícula: S25018133
+- Fecha: 26/10/2025
 
 ## 🎯 Objetivos
 
